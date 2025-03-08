@@ -2,7 +2,7 @@
 
 A simple and elegant task manager application built with **React**, **Redux**, and **CSS animations**. This app allows users to create, manage, and track tasks with a beautiful pink aesthetic theme and animated background.
 
-![Task Manager Screenshot](https://via.placeholder.com/600x400.png?text=Task+Manager+App+Screenshot)
+![Task Manager Screenshot](https://i.postimg.cc/8P3Lc8HJ/Screenshot-2025-03-09-001935.png)
 
 ## ✨ Features
 
