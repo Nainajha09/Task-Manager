@@ -30,11 +30,15 @@ To get started with the project, follow these steps:
    git clone https://github.com/yourusername/task-manager-app.git
 
 2. **Navigate to the project directory:
-  cd task-manager-app
+   ```bash
+   cd task-manager-app
+  
 3. **Install the dependencies:
-  npm install
+   ```bash
+     npm install
 4. **Add your OpenWeatherMap API key:
   Sign up at OpenWeatherMap to get your API key.
   Replace 'YOUR_API_KEY' in src/App.js with your actual API key.
 5. **Run the application:
+   ```bash
    npm start
